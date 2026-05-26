@@ -1,0 +1,11 @@
+{
+  "name": "base-pegged-l3-gas-token",
+  "version": "1.0.0",
+  "description": "Arbitrum Orbit L3 custom native gas token integration framework",
+  "main": "generateGenesis.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5"
+  }
+}
